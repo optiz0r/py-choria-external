@@ -1,0 +1,7 @@
+# Generated files
+*.pyc
+
+# Release artifacts
+/build
+/dist
+/*.egg-info
